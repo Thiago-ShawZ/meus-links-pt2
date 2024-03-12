@@ -34,7 +34,7 @@ div h1{
     margin-bottom: 4px;
 }
 div strong{
-    color: #D4FB2A;
+    color: #C4FB2A;
     font-size: 14px;
     line-height: 21px;
 }
@@ -55,4 +55,9 @@ div a{
     font-weight: 700;
     font-size: 14px;
     font-weight: 21px;
+}
+div a:hover{
+    background-color: #C4FB2A;
+    color: #141414;
+    transition: 0.7s;
 }
